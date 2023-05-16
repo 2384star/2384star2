@@ -1,0 +1,41 @@
+카테고리,코스(상품) 이름
+데이터 사이언스,"['The Red : 딥러닝 뉴럴네트워크 GNN'
+ 'The RED : Meta 연구원 문경식의 단일 이미지 인식을 통한 Human Pose Estimation'
+ 'THE RED : Area Chair 이광무 교수의 Neural Fields & 3D 컴퓨터 비전'
+ 'The RED : 검색엔진 구축을 위한 Elasticsearch 마스터 클래스 by 정호욱 '
+ 'The RED : 칼만필터를 활용한 자율주행 센서퓨전 기술 구현 by 조형기'
+ 'The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈'
+ 'The RED : 현실 데이터를 활용한 추천시스템 구현 A to Z by 번개장터 CTO 이동주'
+ 'The Red : Facebook Prophet을 활용한 파이썬 시계열 예측 by Juber Rahman 박사'
+ 'The RED : Snowflake를 활용한 클라우드 데이터 엔지니어링'
+ 'The RED : SOCAR 김상우 HEAD의 비즈니스의 운명을 바꾸는 Dynamic Pricing'
+ 'The Red : Google 출신 엔지니어와 고성능 검색엔진 만들기 with Elasticsearch']"
+디자인,"['The RED : Figma로 끝내는 모바일 UXUI 디자인 프로젝트 Kit'
+ 'The RED : 구글이 선택한 디자이너, 한유진의 디자인 시장 생존전략' 'The RED : UX디자인의 정석 2022']"
+마케팅,"['The Red : 씀으로써 작가가 되는 글쓰기 by. 김영하'
+ 'The RED : 김영하 작가의 내 안의 숨은 이야기를 찾아 쓰는 법'
+ 'The red : 나만의 세계가 담긴 동화 쓰기 BY. 황선미'
+ 'The RED : 지브리 스튜디오 제작국장에게 듣는 스토리텔링 기획법' 'THE RED : 광고인 박웅현과 크리에이티브']"
+부동산/금융,['The RED : 박지웅의 8천억 원 가치의 회사를 만드는 컴퍼니빌딩']
+업무 생산성,"['The RED : 최고제품책임자(CPO) 윤희경' 'The RED : YouTube 프로덕트 매니저 다니엘의 PM 101'
+ 'The RED : 1조 기업 가치를 만들어 낸 경영 원칙 by 신현성']"
+영상/3D,"['The RED : FX 슈퍼바이저 김장형의 후디니 디스트럭션 : RBD Simulation '
+ 'The RED : 탑 아티스트가 선택한 디렉터 : 권오준이 알려주는 영상 연출의 모든 것'
+ 'The RED : 픽사 라이팅 아티스트에게 배우는 빛과 색의 비주얼 스토리텔링 by 이민형'
+ 'The RED : 블리자드 라이팅 아티스트 : 이호성의 언리얼 엔진 라이팅'
+ 'The RED : 국내 최대 규모의 올인원 프로덕션 : 쟈니브로스에게 배우는 뮤직비디오 제작 바이블'
+ 'The RED: ILM 리드 모델러와 만드는 판타지 캐릭터: Dragon and Nun']"
+프로그래밍,"['The RED : 현실 세상의 TDD by 이규원'
+ 'The RED : 백엔드 에센셜 : 대용량 서비스를 위한 아키텍처 with Redis by 강대명'
+ 'The RED : 현실 세상의 TDD 실전편 : 설계 확장성을 위한 코드 개선 방법 by 이규원'
+ 'The RED : 비즈니스 성공을 위한 Java/Spring 기반 서비스 개발과 MSA 구축 by 이희창'
+ 'The RED : 김민태' 'The RED : 슈퍼앱 운영을 위한 확장성 높은 앱 아키텍처 구축 by 노수진'
+ 'The RED : 강사룡의 앱 안정성 및 확장성 강화를 위한 Android 아키텍처'
+ 'The RED : 효과적인 비동기처리를 위한 Kotlin Coroutines & Flow 마스터 by 김용욱'
+ 'The RED : 고객 경험을 개선하는 A/B테스트 기반 모바일 앱 개발 by 이승민'
+ 'The RED : 카카오페이지 기술전략이사 윤진석'
+ 'The RED : 조은의 프론트엔드 실무 가이드 : 요구사항 분석과 적정 기술'
+ 'The RED : 견고한 UI 설계를 위한 마크업 가이드 by 정찬명' 'The RED : 프론트엔드 개발자 김태곤'
+ 'The RED : 25개 백엔드 개발 필수 현업 예제를 통해 마스터하는 JAVA STREAM'
+ 'The RED : 모든 비즈니스를 성공으로 이끄는 Product Management Essential by 김영욱'
+ 'The RED : 개발자로 살아남기 : 30년을 주도하는 9가지 필수 기술 by 박종천']"
