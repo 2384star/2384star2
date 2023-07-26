@@ -9,5 +9,5 @@ string = \
 """
 
 pattern = r'^(?:0|\+82-)\d{1,2}-(\d{4})-\1$'
-print(re.sub(pattern,"치환됨",string,flags=re.MULTILINE))
+print(re.split(pattern,string,flags=re.MULTILINE))
 
